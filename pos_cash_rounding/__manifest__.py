@@ -21,5 +21,5 @@
         'static/src/xml/pos.xml',
     ],
     'installable': True,
-    'auto_install': True,
+    'auto_install': False,
 }
